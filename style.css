@@ -1,0 +1,21 @@
+html, body {
+    /* Sets default font-size to 16px, ensuring 1em = 16px; */
+    font-size: 16px;
+}
+
+body {background:  aliceblue;
+     margin: 20px;
+     }
+h1{
+    text-align: center;
+}
+img{
+    display: block; 
+    width: 100%; 
+    max-width: 800px;
+}
+
+
+.led_img{
+     display: block;
+     max-width: 100%;
